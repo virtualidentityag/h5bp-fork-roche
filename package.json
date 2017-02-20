@@ -1,0 +1,19 @@
+{
+  "name": "h5bp-fork-roche",
+  "version": "1.0.1",
+  "description": "",
+  "main": "js/consolePolyfill.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualidentityag/h5bp-fork-roche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtualidentityag/h5bp-fork-roche/issues"
+  },
+  "homepage": "https://github.com/virtualidentityag/h5bp-fork-roche#readme"
+}
